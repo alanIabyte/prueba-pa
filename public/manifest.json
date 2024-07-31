@@ -152,5 +152,5 @@
   "scope": "/",
   "short_name": "PWA Lasfi",
   "start_url": "/",
-  "theme_color": "orange"
+  "theme_color": "#000000"
 }
